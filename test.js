@@ -3,5 +3,5 @@ function testFunc(){
 }
 
 function testFunc2(){
-    
+    console.log('1');
 }
